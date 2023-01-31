@@ -12,7 +12,7 @@
   },
   {
     "category": "consonant",
-    "'letter": "ข",
+    "letter": "ข",
     "pronounciation": "khaaw",
     "class": "high",
     "thai": "ไข่",
@@ -23,7 +23,7 @@
   },
   {
   "category": "consonant",
-  "'letter": "ค",
+  "letter": "ค",
   "pronounciation": "khaaw",
   "class": "low",
   "thai": "ควาย",
@@ -34,7 +34,7 @@
   },
   {
     "category": "consonant",
-    "'letter": "ฆ",
+    "letter": "ฆ",
     "pronounciation": "khaaw",
     "class": "low",
     "thai": "ระฆัง",
@@ -45,7 +45,7 @@
     },
   {
     "category": "consonant",
-    "'letter": "ง",
+    "letter": "ง",
     "pronounciation": "ngaaw // last syllable of kiNG or siNG",
     "class": "low",
     "thai": "งู",
@@ -56,7 +56,7 @@
     },
   {
     "category": "consonant",
-    "'letter": "จ",
+    "letter": "จ",
     "pronounciation": "jaaw",
     "class": "mid",
     "thai": "จาน",
@@ -67,7 +67,7 @@
     },
   {
     "category": "consonant",
-    "'letter": "ฉ",
+    "letter": "ฉ",
     "pronounciation": "chaaw",
     "class": "high",
     "thai": "ฉิ่ง",
@@ -78,7 +78,7 @@
     },
   {
     "category": "consonant",
-    "'letter": "ช",
+    "letter": "ช",
     "pronounciation": "chaaw",
     "class": "low",
     "thai": "ช้าง",
@@ -89,7 +89,7 @@
     },
   {
     "category": "consonant",
-    "'letter": "ซ",
+    "letter": "ซ",
     "pronounciation": "saaw",
     "class": "low",
     "thai": "โซ่",
@@ -100,7 +100,7 @@
     },
   {
     "category": "consonant",
-    "'letter": "ฌ",
+    "letter": "ฌ",
     "pronounciation": "chaaw",
     "class": "low",
     "thai": "เฌอ",
@@ -111,7 +111,7 @@
     },
   {
     "category": "consonant",
-    "'letter": "ญ",
+    "letter": "ญ",
     "pronounciation": "yaaw",
     "class": "low",
     "thai": "หญิง",

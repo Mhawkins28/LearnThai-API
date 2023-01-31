@@ -1,17 +1,19 @@
 import mongoose from 'mongoose'
-import dotenv from 'dotenv'
+// import dotenv from 'dotenv'
+// dotenv.config()
 
-dotenv.config()
 
+mongoose
+  .set('strictQuery', true)
+  .connect(process.env.DATABASE_URL || "mongodb://localhost:27017/thai", {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  })
+  .then((instance) => {
+    console.log(`Connected on ${instance.connections[0].name}`);
+  })
+  .catch((err) => console.log(`Got an error see details, ${err}`));
+  
 
-let mongooseConnectionConfig = { useNewUrlParser: true, useUnifiedTopology: true}
-mongoose.set('strictQuery', true)
-
-const url = process.env.DATABASE_URL || 'mongodb://localhost:27017/thai'
-
-mongoose.connect(url, mongooseConnectionConfig)
-
-mongoose.connection.on('connected', ()=> console.log("Connected to database"))
-mongoose.connection.on('disconnected', ()=> console.log("Disconnected from database"))
 
 export default mongoose.connection

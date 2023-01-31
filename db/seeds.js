@@ -4,12 +4,11 @@ import phrases from './phrases.json' assert { type: "json" }
 import Alphabet from '../models/Alphabet.js'
 import Phrase from "../models/Phrase.js"
 
-// Create Function to Insert Data
 const insertData = async () => {
 
     await Alphabet.deleteMany({});
     await Alphabet.create(alphabet);
-
+s
     await Phrase.deleteMany({});
     await Phrase.create(phrases);
 
