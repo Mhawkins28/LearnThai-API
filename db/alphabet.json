@@ -1,0 +1,123 @@
+[
+  {
+    "category": "consonant",
+    "letter": "ก",
+    "pronounciation": "gaaw",
+    "class": "mid",
+    "thai": "ก ไก่",
+    "rtgs": "ko khai",
+    "meaning": "chicken",
+    "initial": "g",
+    "final": "k"
+  },
+  {
+    "category": "consonant",
+    "'letter": "ข",
+    "pronounciation": "khaaw",
+    "class": "high",
+    "thai": "ไข่",
+    "rtgs": "khai",
+    "meaning": "egg",
+    "initial": "kh",
+    "final": "k"
+  },
+  {
+  "category": "consonant",
+  "'letter": "ค",
+  "pronounciation": "khaaw",
+  "class": "low",
+  "thai": "ควาย",
+  "rtgs": "khwaai",
+  "meaning": "water buffalo",
+  "initial": "kh",
+  "final": "k"
+  },
+  {
+    "category": "consonant",
+    "'letter": "ฆ",
+    "pronounciation": "khaaw",
+    "class": "low",
+    "thai": "ระฆัง",
+    "rtgs": "ra khang",
+    "meaning": "temple bell",
+    "initial": "kh",
+    "final": "k"
+    },
+  {
+    "category": "consonant",
+    "'letter": "ง",
+    "pronounciation": "ngaaw // last syllable of kiNG or siNG",
+    "class": "low",
+    "thai": "งู",
+    "rtgs": "nguu",
+    "meaning": "snake",
+    "initial": "ng",
+    "final": "ng"
+    },
+  {
+    "category": "consonant",
+    "'letter": "จ",
+    "pronounciation": "jaaw",
+    "class": "mid",
+    "thai": "จาน",
+    "rtgs": "jaan",
+    "meaning": "plate",
+    "initial": "j",
+    "final": "t"
+    },
+  {
+    "category": "consonant",
+    "'letter": "ฉ",
+    "pronounciation": "chaaw",
+    "class": "high",
+    "thai": "ฉิ่ง",
+    "rtgs": "ching",
+    "meaning": "cymbal",
+    "initial": "ch",
+    "final": "n/a"
+    },
+  {
+    "category": "consonant",
+    "'letter": "ช",
+    "pronounciation": "chaaw",
+    "class": "low",
+    "thai": "ช้าง",
+    "rtgs": "chaang",
+    "meaning": "elephant",
+    "initial": "ch",
+    "final": "t"
+    },
+  {
+    "category": "consonant",
+    "'letter": "ซ",
+    "pronounciation": "saaw",
+    "class": "low",
+    "thai": "โซ่",
+    "rtgs": "so:h",
+    "meaning": "chain",
+    "initial": "s",
+    "final": "s"
+    },
+  {
+    "category": "consonant",
+    "'letter": "ฌ",
+    "pronounciation": "chaaw",
+    "class": "low",
+    "thai": "เฌอ",
+    "rtgs": "chuuhr",
+    "meaning": "tree",
+    "initial": "ch",
+    "final": "t"
+    },
+  {
+    "category": "consonant",
+    "'letter": "ญ",
+    "pronounciation": "yaaw",
+    "class": "low",
+    "thai": "หญิง",
+    "rtgs": "ying",
+    "meaning": "female",
+    "initial": "y",
+    "final": "n"
+    }
+]
