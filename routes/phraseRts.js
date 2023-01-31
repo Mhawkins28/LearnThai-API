@@ -1,14 +1,14 @@
 import { Router } from "express";
-// import * as controllers from "../controllers/products.js";
+import * as controllers from "../controllers/phrasesCtrl.js";
 
 const router = Router();
 
 
-// router.get("/", controllers.getProducts);
-// router.get("/:id", controllers.getProduct);
-// router.post("/", controllers.createProduct);
-// router.put("/:id", controllers.updateProduct);
-// router.delete("/:id", controllers.deleteProduct);
+router.get("/", controllers.getAllPhrases);
+router.get("/:id", controllers.getOnePhrase);
+router.post("/", controllers.createPhrase);
+router.put("/:id", controllers.updatePhrase);
+router.delete("/:id", controllers.deletePhrase);
 
 
 export default router;
