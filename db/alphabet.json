@@ -119,5 +119,82 @@
     "meaning": "female",
     "initial": "y",
     "final": "n"
+    },
+  {
+    "category": "consonant",
+    "letter": "ฎ",
+    "pronounciation": "daaw",
+    "class": "mid",
+    "thai": "ชฎา",
+    "rtgs": "",
+    "meaning": "",
+    "initial": "",
+    "final": ""
+    },
+  {
+    "category": "consonant",
+    "letter": "",
+    "pronounciation": "",
+    "class": "",
+    "thai": "",
+    "rtgs": "",
+    "meaning": "",
+    "initial": "",
+    "final": ""
+    },
+  {
+    "category": "consonant",
+    "letter": "",
+    "pronounciation": "",
+    "class": "",
+    "thai": "",
+    "rtgs": "",
+    "meaning": "",
+    "initial": "",
+    "final": ""
+    },
+  {
+    "category": "consonant",
+    "letter": "",
+    "pronounciation": "",
+    "class": "",
+    "thai": "",
+    "rtgs": "",
+    "meaning": "",
+    "initial": "",
+    "final": ""
+    },
+  {
+    "category": "consonant",
+    "letter": "",
+    "pronounciation": "",
+    "class": "",
+    "thai": "",
+    "rtgs": "",
+    "meaning": "",
+    "initial": "",
+    "final": ""
+    },
+  {
+    "category": "consonant",
+    "letter": "",
+    "pronounciation": "",
+    "class": "",
+    "thai": "",
+    "rtgs": "",
+    "meaning": "",
+    "initial": "",
+    "final": ""
+    },
+  {
+    "category": "consonant",
+    "letter": "",
+    "pronounciation": "",
+    "class": "",
+    "thai": "",
+    "rtgs": "",
+    "meaning": "",
+    "initial": "",
+    "final": ""
     }
 ]
