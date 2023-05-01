@@ -11,4 +11,4 @@ const phraseSchema = new Schema(
   }
 );
 
-export default mongoose.model('Phrase', phraseSchema);
+export default mongoose.model('phrases', phraseSchema);
