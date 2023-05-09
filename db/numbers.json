@@ -1,78 +1,122 @@
 [
   {
     "digit":"0",
-    "thai": "",
-    "Phonemic": "suunR"
+    "thai": "๐",
+    "rtgs": "suun\u1D3F"
   },
   {
     "digit":"1",
-    "thai": "",
-    "Phonemic": ""
+    "thai": "๑",
+    "rtgs": "neung\u1D38"
   },
   {
     "digit":"2",
-    "thai": "",
-    "Phonemic": ""
+    "thai": "๒",
+    "rtgs": "saawng\u1D3F"
   },
   {
     "digit":"3",
-    "thai": "",
-    "Phonemic": ""
+    "thai": "๓",
+    "rtgs": "saam\u1D3F"
   },
   {
     "digit":"4",
-    "thai": "",
-    "Phonemic": ""
+    "thai": "๔",
+    "rtgs": "see\u1D38"
   },
   {
     "digit":"5",
-    "thai": "",
-    "Phonemic": ""
+    "thai": "๕",
+    "rtgs": "haa\u1DA0"
   },
   {
     "digit":"6",
-    "thai": "",
-    "Phonemic": ""
+    "thai": "๖",
+    "rtgs": "hohk\u1D38"
   },
   {
     "digit":"7",
-    "thai": "",
-    "Phonemic": ""
+    "thai": "๗",
+    "rtgs": "jet\u1D38"
   },
   {
     "digit":"8",
-    "thai": "",
-    "Phonemic": ""
+    "thai": "๘",
+    "rtgs": "bpaaet\u1D38"
   },
   {
     "digit":"9",
-    "thai": "",
-    "Phonemic": ""
-  },  {
+    "thai": "๙",
+    "rtgs": "gaao\u1DA0"
+  },  
+  {
     "digit":"10",
-    "thai": "",
-    "Phonemic": ""
-  },  {
+    "thai": "๑๐",
+    "rtgs": "sip\u1D38"
+  },  
+  {
+    "digit":"11",
+    "thai": "๑๑",
+    "rtgs": "sip\u1D38 et\u1D38"
+  },  
+  {
+    "digit":"12",
+    "thai": "๑๒",
+    "rtgs": "sip\u1D38 saawng\u1D3F"
+  },  
+  {
+    "digit":"20",
+    "thai": "๒๐",
+    "rtgs": "yi\u1DA0 sip\u1D38"
+  },  
+  {
+    "digit":"21",
+    "thai": "๒๑",
+    "rtgs": "yi\u1DA0 sip\u1D38 et\u1D38"
+  },  
+  {
+    "digit":"22",
+    "thai": "๒๒",
+    "rtgs": "yi\u1DA0 sip\u1D38 saawng\u1D3F"
+  },  
+  {
+    "digit":"30",
+    "thai": "๓๐",
+    "rtgs": "saam\u1D3F sip\u1D38"
+  },  
+  {
+    "digit":"31",
+    "thai": "๓๑",
+    "rtgs": "saam\u1D3F sip\u1D38 et\u1D38"
+  },  
+  {
+    "digit":"32",
+    "thai": "๓๒",
+    "rtgs": "saam\u1D3F sip\u1D38 saawng\u1D3F"
+  },  
+  {
     "digit":"100",
-    "thai": "",
-    "Phonemic": ""
-  },  {
+    "thai": "๑๐๐",
+    "rtgs": "raawy\u1D34"
+  },  
+  {
     "digit":"1,000",
-    "thai": "",
-    "Phonemic": ""
-  },  {
+    "thai": "๑๐๐๐",
+    "rtgs": "phan\u1D39"
+  },  
+  {
     "digit":"10,000",
-    "thai": "",
-    "Phonemic": ""
-  },  {
+    "thai": "๑๐๐๐๐",
+    "rtgs": "meuun\u1D38"
+  },  
+  {
     "digit":"100,000",
-    "thai": "",
-    "Phonemic": ""
+    "thai": "๑๐๐๐๐๐",
+    "rtgs": "saaen\u1D3F"
   },
   {
     "digit":"1,000,000",
-    "thai": "",
-    "Phonemic": ""
+    "thai": "๑๐๐๐๐๐๐",
+    "rtgs": "laan\u1D34"
   }
-
 ]

@@ -2,12 +2,12 @@ import mongoose from "mongoose";
 const { Schema } = mongoose;
 
 
-const numberSchema = new Schema(
+const NumberSchema = new Schema(
   {
-    englsih: String,
-    pronounciation: String,
-    thai: String
+    digit: String,
+    thai: String,
+    rtgs: String
   }
 );
 
-export default mongoose.model('Number', numberSchema);
+export default mongoose.model('numbers', NumberSchema);
