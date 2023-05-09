@@ -2,18 +2,19 @@ import mongoose from "mongoose";
 const { Schema } = mongoose;
 
 
-const alphabetSchema = new Schema(
+const AlphabetSchema = new Schema(
     {
       category: String,
-      letter: String,
-      pronounciation: String,
       class: String,
-      thai: String,
+      letter: String,
       rtgs: String,
+      thai: String,
+      acrophonic: String,
       meaning: String,
       initial: String,
-      final: String
+      final: String,
+      audioFile: String
     },
 );
 
-export default mongoose.model('Alphabet', alphabetSchema);
+export default mongoose.model('alphabet', AlphabetSchema);

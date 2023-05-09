@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 const { Schema } = mongoose;
 
 
-const phraseSchema = new Schema(
+const PhraseSchema = new Schema(
   {
     category: String,
     thai: String,
@@ -11,4 +11,4 @@ const phraseSchema = new Schema(
   }
 );
 
-export default mongoose.model('phrases', phraseSchema);
+export default mongoose.model('phrases', PhraseSchema);
