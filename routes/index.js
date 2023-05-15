@@ -1,5 +1,5 @@
 import { Router } from "express";
-import alphabetRts from './alphabetRts.js'
+import consonantRts from './consonantRts.js'
 import phraseRts from './phraseRts.js'
 import numberRts from './numberRts.js'
 import userRts from './userRts.js'
@@ -12,7 +12,7 @@ router.get("/", (req, res) => {
     res.send("This is the api root!");
   });
   
-  router.use("/alphabet", alphabetRts);
+  router.use("/consonants", consonantRts);
   router.use("/phrases", phraseRts);
   router.use("/numbers", numberRts)
   router.use("/", userRts )
