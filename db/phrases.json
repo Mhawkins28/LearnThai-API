@@ -1,27 +1,33 @@
 [
   {
-    "category": "greeting",
+    "category": "basics",
     "thai": "สวัสดี",
     "rtgs": "sa\u1D38 wat\u1D38 dee\u1D39",
     "meaning": "hello"
   },
   {
-    "category": "greeting",
-    "thai": "",
-    "rtgs": "",
-    "meaning": ""
+    "category": "basic",
+    "thai": "ขอบคุณ (มาก)",
+    "rtgs": "khaawpL khoonM (MaakF)",
+    "meaning": "Thank you (very much)"
   },
   {
-    "category": "greeting",
-    "thai": "",
-    "rtgs": "",
-    "meaning": ""
+    "category": "basics",
+    "thai": "ไม่เป็นไร",
+    "rtgs": "maiF bpenM raiM",
+    "meaning": "'no problem', 'It doesn't matter', 'Never mind', 'You're welcome'"
   },
   {
-    "category": "greeting",
-    "thai": "",
-    "rtgs": "",
-    "meaning": ""
+    "category": "basics",
+    "thai": "สบายดีไหม",
+    "rtgs": "saL baaiM deeM maiH",
+    "meaning": "How are you?"
+  },
+  {
+    "category": "basics",
+    "thai": "ฉันชื่อ...",
+    "rtgs": "chanR cheuuF",
+    "meaning": "My name is ..."
   }
   
 ]
