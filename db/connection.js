@@ -2,7 +2,6 @@ import mongoose from 'mongoose'
 // import dotenv from 'dotenv'
 // dotenv.config()
 
-
 mongoose
   .set('strictQuery', true)
   .connect(process.env.DATABASE_URL || "mongodb://localhost:27017/thai", {

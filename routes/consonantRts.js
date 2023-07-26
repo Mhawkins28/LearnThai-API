@@ -11,4 +11,5 @@ router.put("/:id", controllers.updateConsonant);
 router.delete("/:id", controllers.deleteConsonant);
 
 
+
 export default router;
