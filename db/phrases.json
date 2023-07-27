@@ -18,7 +18,7 @@
     "meaning": "'no problem', 'It doesn't matter', 'Never mind', 'You're welcome'"
   },
   {
-    "category": "basics",
+    "category": ["basics", "common-questions"],
     "thai": "สบายดีไหม",
     "rtgs": "sa\u1D38 baai\u1D39 dee\u1D39 mai\u1D34",
     "meaning": "How are you?"
@@ -28,6 +28,23 @@
     "thai": "ฉันชื่อ...",
     "rtgs": "chan\u1D3F cheuu\u1DA0",
     "meaning": "My name is ..."
+  },
+  {
+    "category": "common-questions",
+    "thai": "ยังไง",
+    "rtgs": "yang\u1D39 ngai\u1D39",
+    "meaning": "[a colloquial way of saying] 'how?' or 'in what way?'"
+  },
+  {
+    "category": ["basics", "common-questions"],
+    "thai": "เป็นไงบ้าง",
+    "rtgs": "bpen\u1D39 ngai\u1D39 baang\u1DA0",
+    "meaning": "[informal, colloquial] 'How's it going?' 'How're you doing?'"
+  },
+  {
+    "category": "time-day",
+    "thai": "เมื่อวาน",
+    "rtgs": "meuua\u1DA0 waan\u1D39",
+    "meaning": "yesterday"
   }
-  
 ]
