@@ -9,6 +9,7 @@ router.get("/:id", controllers.getOnePhrase);
 router.post("/", controllers.createPhrase);
 router.put("/:id", controllers.updatePhrase);
 router.delete("/:id", controllers.deletePhrase);
+router.get("/category/:category", controllers.filterCategory);
 
 
 export default router;

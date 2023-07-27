@@ -64,3 +64,22 @@ export const deletePhrase = async (req, res) => {
     res.status(500).json({ error: error.message });
   }
 };
+
+export const filterCategory = async(req, res) => {
+  try {
+  
+    const { category } = req.params;
+    const getCategory = await Phrase.find({category});
+
+    if (getCategory) {
+      return res.json(getCategory);
+    }
+
+    res.status(404).json({ message: "Category not found!" });
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ error: error.message });
+  }
+}
+
+
