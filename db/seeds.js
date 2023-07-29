@@ -1,5 +1,5 @@
 import db from './connection.js'
-import alphabet from './consonants.json' assert { type: "json" }
+import consonants from './consonants.json' assert { type: "json" }
 import phrases from './phrases.json' assert { type: "json" }
 import numbers from './numbers.json' assert { type: "json" }
 import Phrase from "../models/Phrase.js"
@@ -10,7 +10,7 @@ import Consonant from '../models/Consonant.js'
 const insertData = async () => {
 
     await Consonant.deleteMany({});
-    await Consonant.create(alphabet);
+    await Consonant.create(consonants);
 
     await Phrase.deleteMany({});
     await Phrase.create(phrases);
