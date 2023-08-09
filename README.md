@@ -32,7 +32,7 @@
 </details>
 
 <div align="center">
-<h1 align="center">LearnTahi Backend Server</h1>
+<h1 align="center">LearnThai Backend Server</h1>
 
   <p align="center">
   Description of API here. Coming soon<br>
