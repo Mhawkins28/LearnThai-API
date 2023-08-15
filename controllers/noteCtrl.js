@@ -65,3 +65,18 @@ export const deleteNote = async (req, res) => {
     res.status(500).json({ error: error.message });
   }
 };
+
+export const filterFav = async(req, res) => {
+  try {
+    const getFavorites = await Note.find({favorite: true});
+
+    if (getFavorites) {
+      return res.json(getFavorites);
+    }
+
+    res.status(404).json({ message: "Favorites not found!" });
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ error: error.message });
+  }
+}

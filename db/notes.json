@@ -1,7 +1,12 @@
 [
   {
     "title":"Test Note",
-    "content": "This is a test note"
-
+    "content": "This is a test note",
+    "favorite": true
+  },
+  {
+    "title":"Test Note 2",
+    "content": "This is a test noteeee",
+    "favorite": false
   }
 ]
