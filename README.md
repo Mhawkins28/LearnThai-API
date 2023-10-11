@@ -7,24 +7,18 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#technologies-used">Technologies-Used</a></li>
-        <li><a href="#Views-of-how-the-data-looks">Data Visuals</a></li>
-        <li><a href="#RESTful-routes-and-Endpoints">Endpoints</a></li>
-         <li><a href="#Flashcard-Data-Schemas">Schema Models</a></li>
+        <li><a href="#views-of-how-the-data-looks">Data Visuals</a></li>
+        <li><a href="#restful-routes-and-endpoints">Endpoints</a></li>
+         <li><a href="#flashcard-data-schemas">Schema Models</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#user-stories">User Stories</a>
-      <ul>
-        <li><a href="#mvp">MVP</a></li>
-        <li><a href="#stretch-goals">Stretch Goals</a></li>
-         <li><a href="#future-features">Future Features</a></li>
-      </ul>
     </li>
     <li>
       <a href="#developement">Planning, Research, and Future Developement</a>
       <ul>
         <li><a href="#tools-used">Tools Used</a></li>
         <li><a href="#helpful-links-for-this-project">Helpful Links</a></li>
+        <li><a href="#future-features">Future Features</a></li>
         <li><a href="#contributing">Contributing</a></li>
       </ul>
     </li>
@@ -32,12 +26,11 @@
 </details>
 
 <div align="center">
-<h1 align="center">LearnThai Backend Server</h1>
+<h1 align="center">LearnThai API</h1>
 
   <p align="center">
   Description of API here. Coming soon<br>
     <br />
-    <a href="https://github.com/Mhawkins28/LearnThai-Client"><strong>Explore the Frontend Docs »</strong></a><br>
     <a href="https://github.com/Mhawkins28/LearnThai-Server"><strong>Explore the Backend Docs »</strong>
     <br />
     <br />
@@ -126,11 +119,7 @@ Phrase Model
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Future Features
 
-TBD
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 # Developement
 
@@ -139,6 +128,12 @@ TBD
 ### Helpful Links for this Project
 
 ...Will add links soon
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Future Features
+
+TBD
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
