@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #2a234eb4;
+  /* background: linear-gradient(320deg, rgb(236, 93, 85) 0%, rgb(18, 7, 68) 100%); */
+  background: rgb(82, 92, 102);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "Playfair Display SC", serif;
+}
+
+.pageHeader {
+  padding-top: 0.5rem;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  margin: 20px 0 20px 0;
+  font-size: 3rem;
+  color: rgb(26, 20, 66);
+  padding-bottom: 1.5rem;
+  width: 90%;
+  border-bottom: thick double whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+li {
+  list-style: none;
+  padding: 0.2rem;
+}
+
+li:hover {
+  border-left: thick double rgb(26, 20, 66);
+  color: white;
+}
+
+.description {
+  font-size: 1.5rem;
+  color: rgb(26, 20, 66);
+  padding-bottom: 1.5rem;
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 2.5rem;
+  color: rgb(26, 20, 66);
+  font-size: 1.5rem;
+}
+
+.ghLink {
+  color: rgba(82, 22, 22, 0.877);
+}
+
+.ghLink:hover {
+  color: rgb(26, 20, 66);
+  border-bottom: thick double rgb(26, 20, 66);
+}

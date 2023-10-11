@@ -9,7 +9,7 @@ dotenv.config();
 
 const router = Router();
 router.get("/", (req, res) => {
-  res.send("This is the api root!");
+  res.render("rootAPI");
 });
 
 router.use("/consonants", consonantRts);
