@@ -34,7 +34,7 @@
     <a href="https://github.com/Mhawkins28/LearnThai-Server"><strong>Explore the Backend Docs »</strong>
     <br />
     <br />
-    <a href="">Deplyed API</a>
+    <a href="https://learn-thai-api-e2ec4a068c3c.herokuapp.com/">Deplyed API</a>
     |
     <a href="https://github.com/Mhawkins28/LearnThai-Server/issues">Report Bug</a>
     |
