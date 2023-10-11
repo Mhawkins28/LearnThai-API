@@ -49,51 +49,55 @@
   </p>
 </div>
 
-
 ## About the Project
-This is the backend component of a full-stack MERN application, bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
+
+This is the backend component of a full-stack MERN application, bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Technologies used
+
 - [Mongoose]()
-- [Express](https://expressjs.com/en/5x/api.html) 
+- [Express](https://expressjs.com/en/5x/api.html)
 - [Node.js](https://nodejs.org/dist./v6.16.0/docs/api/synopsis.html)
 - [Postman](https://www.postman.com/)
 - [MongoDb](https://www.mongodb.com/docs/drivers/node/current/)
 - [Heroku](https://www.heroku.com/)
 
-### Views of how the data looks 
+### Views of how the data looks
+
 <em>...coming soon when deployed <br></em>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### RESTful routes and Endpoints
+
 <em>...coming soon when deployed <br></em>
-  Base URL: <br>
-  consonants: <br>
-  numbers:<br>
-  brases:
+Base URL: <br>
+consonants: <br>
+numbers:<br>
+brases:
 
 ### Flashcard Data Schemas
 
 Consonant Model
 
-  ```
+```
 {
-    category: String,
-    class: String,
-    letter: String,
-    rtgs: String,
-    thaiWord: String,
-    acrophonicRtgs: String,
-    meaning: String,
-    initial: String,
-    final: String,
-    audioFile: String
+  category: String,
+  class: String,
+  letter: String,
+  rtgs: String,
+  thaiWord: String,
+  acrophonicRtgs: String,
+  meaning: String,
+  initial: String,
+  final: String,
+  audioFile: String
 }
-  ```
+```
+
 <br>
 
-Number Model 
+Number Model
 
 ```
 {
@@ -102,9 +106,11 @@ Number Model
   rtgs: String
 }
 ```
+
 <br>
 
-Phrase Model 
+Phrase Model
+
 ```
 {
   category: {
@@ -117,32 +123,18 @@ Phrase Model
   meaning: String
 }
 ```
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-## User stories
-
-### MVP
-
-- As the user, I want ...
-
-
-### Stretch Goals
-
-- As a user, I would like ...
-
-
-### Future Features 
+### Future Features
 
 TBD
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Developement
-### Planning, Research, and Future Developement 
 
-
+### Planning, Research, and Future Developement
 
 ### Helpful Links for this Project
 
@@ -156,7 +148,6 @@ Contributions are what make the open source community such an amazing place to l
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
-
 -- **Further instructions on getting started/local installation coming soon**
 
 Fork the Project
@@ -164,6 +155,7 @@ Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <br>
