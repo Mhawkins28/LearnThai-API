@@ -63,11 +63,38 @@ This is the backend component of a full-stack MERN application, bootstrapped wit
 
 ### RESTful routes and Endpoints
 
-<em>...coming soon when deployed <br></em>
-Base URL: <br>
-consonants: <br>
-numbers:<br>
-brases:
+#### Base URL: https://learn-thai-api-e2ec4a068c3c.herokuapp.com/<br>
+
+#### Consonant Routes<br>
+
+| Action | Description                       | Endpoint                                                                                                 |
+| ------ | --------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| GET    | Get all consonants                | [/consonants](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/consonants)                              |
+| GET    | Get a specific consonant by ID    | [/consonants/:id](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/consonants/64fdda27db226b8dfefc3004) |
+| POST   | Create a new consonant            | [/consonants](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/consonants)                              |
+| PUT    | Update a specific consonant by ID | [/consonants/:id](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/consonants/64fdda27db226b8dfefc3004) |
+| DELETE | Delete a specific consonant by ID | [/consonants/:id](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/consonants/64fdda27db226b8dfefc3004) |
+
+#### Number Routes<br>
+
+| Action | Description                    | Endpoint                                                                                           |
+| ------ | ------------------------------ | -------------------------------------------------------------------------------------------------- |
+| GET    | Get all numbers                | [/numbers](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/numbers)                              |
+| GET    | Get a specific number by ID    | [/numbers/:id](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/numbers/64fdda29db226b8dfefc306b) |
+| POST   | Create a new number            | [/numbers](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/numbers)                              |
+| PUT    | Update a specific number by ID | [/numbers/:id](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/numbers/64fdda29db226b8dfefc306b) |
+| DELETE | Delete a specific number by ID | [/numbers/:id](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/numbers/64fdda29db226b8dfefc306b) |
+
+#### Phrase Routes<br>
+
+| Action | Description                    | Endpoint                                                                                                 | Notes                                                                                                                     |
+| ------ | ------------------------------ | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| GET    | Get all phrases                | [/phrases](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/phrases)                                    |
+| GET    | Get a specific phrase by ID    | [/phrases/:id](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/phrases/64fdda29db226b8dfefc3059)       |
+| POST   | Create a new phrase            | [/phrases](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/phrases)                                    |
+| PUT    | Update a specific phrase by ID | [/phrases/:id](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/phrases/64fdda29db226b8dfefc3059)       |
+| DELETE | Delete a specific phrase by ID | [/phrases/:id](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/phrases/64fdda29db226b8dfefc3059)       |
+| GET    | Get all phrases by category    | [/phrases/category/:category](https://learn-thai-api-e2ec4a068c3c.herokuapp.com/phrases/category/basics) | _Category options:_ <br> basics, food-dining, common-questions, time-day, travel, shopping, everyday-communications, misc |
 
 ### Flashcard Data Schemas
 
@@ -118,8 +145,6 @@ Phrase Model
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 # Developement
 
