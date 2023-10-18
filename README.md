@@ -29,7 +29,7 @@
 <h1 align="center">LearnThai API</h1>
 
   <p align="center">
-  Description of API here. Coming soon<br>
+  Description of API here. Coming soon...<br>
     <br />
     <a href="https://github.com/Mhawkins28/LearnThai-Server"><strong>Explore the Backend Docs »</strong>
     <br />
