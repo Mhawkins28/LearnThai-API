@@ -14,9 +14,8 @@
     </li>
     </li>
     <li>
-      <a href="#developement">Planning, Research, and Future Developement</a>
+      <a href="#helpful-links-for-this-project">Developement</a>
       <ul>
-        <li><a href="#tools-used">Tools Used</a></li>
         <li><a href="#helpful-links-for-this-project">Helpful Links</a></li>
         <li><a href="#future-features">Future Features</a></li>
         <li><a href="#contributing">Contributing</a></li>
@@ -29,7 +28,7 @@
 <h1 align="center">LearnThai API</h1>
 
   <p align="center">
-  Description of API here. Coming soon...<br>
+  This is a RESTful API that contains data for learning the Thai Language. As a non-native speaker, I made this API in order to create a flashcard app to assist in learning the Thai consonants, numbers, and common phrases. <br>
     <br />
     <a href="https://github.com/Mhawkins28/LearnThai-Server"><strong>Explore the Backend Docs »</strong>
     <br />
@@ -44,7 +43,6 @@
 
 ## About the Project
 
-This is the backend component of a full-stack MERN application, bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Technologies used
 
@@ -57,7 +55,19 @@ This is the backend component of a full-stack MERN application, bootstrapped wit
 
 ### Views of how the data looks
 
-<em>...coming soon when deployed <br></em>
+#### Consonants
+
+![Screen Shot 2023-10-13 at 11 52 45 AM](https://github.com/Mhawkins28/LearnThai-API/assets/93104882/835fa0a1-934c-4e16-b2c8-2f084f6d1fbd)
+
+#### Numbers
+
+![Screen Shot 2023-10-13 at 11 53 09 AM](https://github.com/Mhawkins28/LearnThai-API/assets/93104882/64951137-697f-49db-aaa7-dc5c535a4ca7)
+
+#### Phrases
+
+![Screen Shot 2023-10-13 at 11 53 36 AM](https://github.com/Mhawkins28/LearnThai-API/assets/93104882/9cadc4ad-aab6-4681-bfc9-a1f8249c305a)
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -146,13 +156,18 @@ Phrase Model
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-# Developement
-
-### Planning, Research, and Future Developement
+## Planning, Research, and Future Developement
 
 ### Helpful Links for this Project
 
-...Will add links soon
+**Consonants and thier properties**
+
+- [thai-language.com](http://www.thai-language.com/ref/consonants) 
+- [wikepidia.com - Thai Script](https://en.wikipedia.org/wiki/Thai_script)
+  
+**Audio of Consonant pronounciation**
+  
+- [thailanguagehut.com](https://www.thailanguagehut.com/thai-alphabet-description-and-sounds/) 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -177,7 +192,3 @@ Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>
-
-For more info about the frontend, check out the [LearnThai Frontend Repo](https://github.com/Mhawkins28/LearnThai-Client/blob/main/README.md)
