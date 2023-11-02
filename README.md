@@ -7,7 +7,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#technologies-used">Technologies-Used</a></li>
-        <li><a href="#views-of-how-the-data-looks">Data Visuals</a></li>
+        <li><a href="#views-of-the-data">Data Visuals</a></li>
         <li><a href="#restful-routes-and-endpoints">Endpoints</a></li>
          <li><a href="#flashcard-data-schemas">Schema Models</a></li>
       </ul>
@@ -28,7 +28,8 @@
 <h1 align="center">LearnThai API</h1>
 
   <p align="center">
-  This is a RESTful API that contains data for learning the Thai Language. As a non-native speaker, I made this API in order to create a flashcard app to assist in learning the Thai consonants, numbers, and common phrases. <br>
+    <img align="center" src="./learning-thai.png"><br>
+  <strong>This is a RESTful API that contains data for learning the Thai Language. As a non-native speaker, I made this API in order to create a flashcard app to assist in learning the Thai consonants, numbers, and common phrases.</strong> <br>
     <br />
     <a href="https://github.com/Mhawkins28/LearnThai-Server"><strong>Explore the Backend Docs »</strong>
     <br />
@@ -53,7 +54,7 @@
 - [MongoDb](https://www.mongodb.com/docs/drivers/node/current/)
 - [Heroku](https://www.heroku.com/)
 
-### Views of how the data looks
+### Views of the data
 
 #### Consonants
 
@@ -72,8 +73,15 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### RESTful routes and Endpoints
+<br>
 
-#### Base URL: https://learn-thai-api-e2ec4a068c3c.herokuapp.com/<br>
+---
+
+NOTE: This site will be easier to view if you have a JSON viewer extension installed on your browser to display/"pretty" the large datasets in your browser. I use the [JSON Viewer Extension on Google Chrome.](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US)
+
+---
+
+### Base URL: https://learn-thai-api-e2ec4a068c3c.herokuapp.com/<br>
 
 #### Consonant Routes<br>
 
